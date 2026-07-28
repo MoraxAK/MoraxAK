@@ -1,94 +1,152 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Adarsh+Kushwaha;Full-Stack+Engineer+%7C+React+%2B+Node.js;Building+LLM%2FRAG+Systems+with+LangChain;Always+shipping+something." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Adarsh+Kushwaha;Full-Stack+Engineer+%40+Infoneo+Technologies;Building+RAG+%2F+LLM+Systems+in+Production;Node.js+%C2%B7+React%2FNext.js+%C2%B7+LangChain" alt="Typing SVG" />
 
-### Full-Stack Engineer building production systems — now going deep on LLM & RAG engineering
+<br/>
+
+**Full-stack engineer building systems where security, reliability, and performance are never optional.**
+<sub>Now going deep on LLM & RAG engineering — shipped an AI system used in a real government workflow.</sub>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devadarsh.online-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devadarsh.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adarshk27-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshk27)
+[![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.devadarsh.online/Adarsh_kushwaha_resume.pdf)
 [![Email](https://img.shields.io/badge/Email-Adarshk6600%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Adarshk6600@gmail.com)
 
 </div>
 
----
+<br/>
 
-### 👋 About Me
+## 👋 About Me
 
-I'm a full-stack engineer with production experience building software for government
-and enterprise platforms — REST APIs, microservices, secure document signing, and
-performance-critical reporting systems. Lately I've been going deep on **LLM
-engineering**: building Retrieval-Augmented Generation (RAG) pipelines with LangChain
-and LangGraph, backed by vector search, and benchmarking models like Qwen and DeepSeek.
+Full-stack engineer with ~2 years of production experience building RESTful APIs, microservices,
+and scalable backend systems for **government and enterprise platforms** — as well as the React/Next.js
+frontends on top of them. Comfortable across the full lifecycle: requirements → architecture →
+shipping to production → keeping it secure and fast once it's live.
 
-- 🔭 Currently building **RAG / LLM-powered systems** with LangChain, LangGraph & ChromaDB
-- 🌱 Deepening my system design chops — long-term goal: technical architect
-- 💬 Ask me about backend architecture, RAG pipelines, or React/Next.js
-- 📫 Reach me at **Adarshk6600@gmail.com**
+- 🔭 **Currently building:** RAG / LLM-powered systems with LangChain, LangGraph & ChromaDB
+- ⚙️ **Shipped in production:** an AI-powered Parliamentary Queries Assistant for a government client — RAG pipeline over internal documents, from ingestion to answer generation
+- 🌱 **Leveling up:** system design — long-term goal is to grow into a technical architect role
+- 🧠 **Exploring:** multiple LLMs (Qwen, DeepSeek, and others) for real cost/latency/accuracy trade-offs, not just demos
+- 💬 **Ask me about:** RAG pipeline design, backend architecture, or React/Next.js
+- 📫 **Reach me at:** Adarshk6600@gmail.com
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,docker,aws,git,github&theme=dark)
 
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+</div>
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<table>
+<tr><td valign="top" width="20%"><b>Languages</b></td><td>JavaScript (ES6+) · TypeScript · Python · SQL</td></tr>
+<tr><td valign="top"><b>Backend</b></td><td>Node.js · Express.js · FastAPI · REST APIs · WebSockets · Socket.io</td></tr>
+<tr><td valign="top"><b>Frontend</b></td><td>React.js · Next.js · Redux · Tailwind CSS · shadcn/ui</td></tr>
+<tr><td valign="top"><b>Databases</b></td><td>PostgreSQL · MongoDB · MySQL · Redis</td></tr>
+<tr><td valign="top"><b>Messaging</b></td><td>RabbitMQ (Pub/Sub) · Event-Driven Architecture</td></tr>
+<tr><td valign="top"><b>AI / LLM Engineering</b></td><td>LangChain · LangGraph · LangSmith · ChromaDB · RAG Pipelines · Prompt Engineering</td></tr>
+<tr><td valign="top"><b>Cloud & DevOps</b></td><td>Docker · AWS EC2 · Git · GitHub Actions · CI/CD</td></tr>
+<tr><td valign="top"><b>Security</b></td><td>RSA Cryptography · JWT · RBAC · Content Security Policy (CSP)</td></tr>
+</table>
 
-**AI / LLM Engineering**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F00?style=flat-square)
-![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square)
+<br/>
 
-**Cloud & DevOps**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-### 🚀 Featured Projects
+## 💼 Professional Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="30%"><img src="https://www.devadarsh.online/gailchatbot.png" width="100%"/></td>
+<td valign="top">
 
-**🗨️ ChaossFeed**
-Anonymous social platform with real-time chat & notifications, plus an AI moderation
-microservice for reported content.
-`Next.js` `TypeScript` `Node.js` `Redis` `RabbitMQ` `Socket.io` `Python` `Docker`
-🔗 [chaosfeed.live](https://chaosfeed.live)
+**GAIL Gas AI Chatbot** — *AI / Backend Engineering, 2026*
+Built and delivered an AI-powered Parliamentary Queries Assistant — a Retrieval-Augmented
+Generation (RAG) pipeline letting employees retrieve answers from internal documents and
+draft responses, from document ingestion through vector search to generation.
+<br/><br/>
+`Python` `FastAPI` `MongoDB` `LangChain` `ChromaDB` `Docker` `React`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="30%"><img src="https://www.devadarsh.online/brns.png" width="100%"/></td>
+<td valign="top">
 
-**🏠 Real Estate Platform**
-Full-stack real estate web app with REST APIs and request validation on the backend.
-`Next.js` `Tailwind CSS` `shadcn/ui` `Node.js` `Express.js` `TypeScript` `MongoDB`
+**BRNS Portal** — *Backend Engineering, 2025–2026*
+Built the frontend architecture and developed backend APIs for the Board of Research in
+Nuclear Sciences' grant management platform (Dept. of Atomic Energy) — including secure
+document signing via RSA-based DSC integration and CSP hardening that helped the platform
+pass VAPT certification.
+<br/><br/>
+`React` `Node.js` `Express.js` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="30%"><img src="https://www.devadarsh.online/cngmitra.png" width="100%"/></td>
+<td valign="top">
+
+**GAIL Gas CNG Mitra** — *Backend Engineering, 2025–2026*
+Implemented features, optimized, and maintained the employee portal for GAIL Gas —
+supporting HR workflows, document management, and org-wide announcements. Query
+optimization brought report load times from ~15s down to under 1s.
+<br/><br/>
+`Node.js` `Express.js` `MySQL` `Redis`
+
+</td>
+</tr>
+<tr>
+<td width="30%"><img src="https://www.devadarsh.online/ncgtc.png" width="100%"/></td>
+<td valign="top">
+
+**NCGTC Platform** — *Frontend Developer, 2025*
+Built and delivered a corpus management system for the Ministry of Finance's
+credit-guarantee disbursement platform.
+<br/><br/>
+`React` `Redux`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 🚀 Personal Projects
+
+<table>
+<tr>
+<td width="30%"><img src="https://www.devadarsh.online/chaos.png" width="100%"/></td>
+<td valign="top">
+
+**[ChaossFeed](https://chaosfeed.live)** — *Full Stack · DevOps · Architecture*
+Designed, built, and deployed an anonymous social platform on an event-driven
+microservice architecture — real-time chat and notifications, an AI moderation
+microservice for reported content, automated CI/CD, and AWS deployment.
+<br/><br/>
+`Next.js` `TypeScript` `Node.js` `Redis` `RabbitMQ` `Socket.io` `Python` `FastAPI` `Docker` `AWS EC2`
+
+</td>
+</tr>
+<tr>
+<td width="30%"><img src="https://www.devadarsh.online/realestate.png" width="100%"/></td>
+<td valign="top">
+
+**Real Estate Platform** — *Full Stack · DevOps*
+Built and deployed a full-stack property listing platform on a serverless
+architecture, with property management, search, and authentication.
+<br/><br/>
+`Next.js` `Node.js` `Express.js` `TypeScript` `MongoDB` `Tailwind CSS` `shadcn/ui`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -99,12 +157,15 @@ Full-stack real estate web app with REST APIs and request validation on the back
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-💼 Open to Full-Stack, Backend, and AI/LLM Engineering roles — let's talk.
+### 💼 Open to Full-Stack, Backend, and AI/LLM Engineering roles
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshk27)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devadarsh.online)
+
+<sub>© 2026 Adarsh Kushwaha</sub>
 
 </div>
